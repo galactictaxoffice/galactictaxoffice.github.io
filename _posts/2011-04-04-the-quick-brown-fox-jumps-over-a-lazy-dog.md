@@ -6,7 +6,7 @@ subtitle: Announcement of artist releasing coming soon.
 description: Bringing some truly creative talent to the world.
 image: https://cms.cern/sites/cmsexperiment.web.cern.ch/files/styles/large/public/field/image/Upsilon_candidate.png?itok=YTBYiBQY
 optimized_image: https://cms.cern/sites/cmsexperiment.web.cern.ch/files/styles/large/public/field/image/Upsilon_candidate.png?itok=YTBYiBQY
-category: css
+category: Announcement
 tags:
   - css
   - tips
