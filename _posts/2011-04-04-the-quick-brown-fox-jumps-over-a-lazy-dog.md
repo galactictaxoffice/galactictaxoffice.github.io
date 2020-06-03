@@ -4,8 +4,8 @@ layout: post
 title: Artist release coming
 subtitle: Announcement of artist releasing coming soon.
 description: Bringing some truly creative talent to the world.
-image: https://cms.cern/sites/cmsexperiment.web.cern.ch/files/styles/large/public/field/image/Upsilon_candidate.png?itok=YTBYiBQY
-optimized_image: https://cms.cern/sites/cmsexperiment.web.cern.ch/files/styles/large/public/field/image/Upsilon_candidate.png?itok=YTBYiBQY
+image: /assets/img/00001.jpg
+optimized_image: /assets/img/00001.jpg
 category: Announcement
 tags:
   - css
