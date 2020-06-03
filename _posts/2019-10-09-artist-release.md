@@ -1,5 +1,5 @@
 ---
-date: 2018-10-09 12:26:40
+date: 2019-10-09 12:26:40
 layout: post
 title: Artist release coming
 subtitle: Announcement of artist releasing coming soon.
@@ -8,8 +8,8 @@ image: /assets/img/00001.jpg
 optimized_image: /assets/img/00001.jpg
 category: Announcement
 tags:
-  - css
-  - tips
+  - 
+  - 
 author: thiagorossener
 ---
 
